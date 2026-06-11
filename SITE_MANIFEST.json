@@ -1,0 +1,78 @@
+{
+  "papers": [
+    {
+      "id": "ai-assisted-market-intelligence-and-product-planning-agents-for-commercial-vehic",
+      "sourceFileName": "AI Assisted Market Intelligence and Product Planning Agents for Commercial Vehicles_Data Collection, Evidence Chains, Human Review, and Planning Outputs.docx",
+      "image": "AI Assisted Market Intelligence and Product Planning Agents for Commercial Vehicles_Data Collection, Evidence Chains, Human Review, and Planning Outputs.jpg",
+      "wordCount": 53947,
+      "tocCount": 89,
+      "abstractChars": 681,
+      "keywords": "商用車商品企劃；市場情報；生成式人工智慧；檢索增強生成；AI Agent；證據鏈；人工覆核；資料治理；TCO；和泰汽車；HINO"
+    },
+    {
+      "id": "commercial-vehicle-acquisition-decisions-among-smes-from-credit-assessment-and-c",
+      "sourceFileName": "Commercial Vehicle Acquisition Decisions among SMEs From Credit Assessment and Cash Flow to TCO and Fleet Replacement Cycles.docx",
+      "image": "Commercial Vehicle Acquisition Decisions among SMEs From Credit Assessment and Cash Flow to TCO and Fleet Replacement Cycles.jpg",
+      "wordCount": 48300,
+      "tocCount": 79,
+      "abstractChars": 634,
+      "keywords": "中小企業；商用車；總體擁有成本；授信分析；現金流；車隊汰換；汽車金融；和泰汽車；HINO；商品企劃"
+    },
+    {
+      "id": "dealer-education-and-product-knowledge-management-for-commercial-vehicles-a-trai",
+      "sourceFileName": "Dealer Education and Product Knowledge Management for Commercial Vehicles_A Training System from Product Specifications to Customer Scenarios.docx",
+      "image": "Dealer Education and Product Knowledge Management for Commercial Vehicles_A Training System from Product Specifications to Customer Scenarios.jpg",
+      "wordCount": 48051,
+      "tocCount": 76,
+      "abstractChars": 519,
+      "keywords": "商用車；經銷商教育；商品知識管理；銷售賦能；總體擁有成本；AI 知識庫；RAG；商用車商品企劃；法人客戶溝通；服務設計"
+    },
+    {
+      "id": "health-safety-and-occupational-risk-among-commercial-vehicle-drivers-fatigue-sed",
+      "sourceFileName": "Health, Safety, and Occupational Risk among Commercial Vehicle Drivers_Fatigue, Sedentary Exposure, Visual Load, Environmental Toxicants, and Accident Prevention.docx",
+      "image": "Health, Safety, and Occupational Risk among Commercial Vehicle Drivers_Fatigue, Sedentary Exposure, Visual Load, Environmental Toxicants, and Accident Prevention.jpg",
+      "wordCount": 64529,
+      "tocCount": 86,
+      "abstractChars": 492,
+      "keywords": "商用車駕駛人；職業安全衛生；疲勞風險管理系統；人因工程；先進駕駛輔助系統；車隊管理；商品企劃；ESG"
+    },
+    {
+      "id": "smart-cities-intelligent-logistics-and-scenario-based-product-planning-for-comme",
+      "sourceFileName": "Smart Cities, Intelligent Logistics, and Scenario Based Product Planning for Commercial Vehicles_From Urban Delivery and Cold Chain Logistics to Disaster Response.docx",
+      "image": "Smart Cities, Intelligent Logistics, and Scenario Based Product Planning for Commercial Vehicles_From Urban Delivery and Cold Chain Logistics to Disaster Response.jpg",
+      "wordCount": 52464,
+      "tocCount": 73,
+      "abstractChars": 628,
+      "keywords": "智慧城市；智慧物流；商用車；場景型商品企劃；最後一哩配送；冷鏈物流；災害支援；車隊管理系統；總持有成本；經銷商教育"
+    },
+    {
+      "id": "smart-factories-and-commercial-vehicle-demand-from-manufacturing-operations-and-",
+      "sourceFileName": "Smart Factories and Commercial Vehicle Demand_From Manufacturing Operations and Delivery Reliability to Supply Chain Resilience.docx",
+      "image": "Smart Factories and Commercial Vehicle Demand_From Manufacturing Operations and Delivery Reliability to Supply Chain Resilience.jpg",
+      "wordCount": 46593,
+      "tocCount": 82,
+      "abstractChars": 776,
+      "keywords": "智慧工廠；工業 4.0；AIoT；供應鏈韌性；商用車；和泰汽車；HINO；製造物流；車隊管理；商品企劃"
+    },
+    {
+      "id": "sustainable-finance-and-fleet-service-solutions-for-commercial-vehicles-integrat",
+      "sourceFileName": "Sustainable Finance and Fleet Service Solutions for Commercial Vehicles Integrated Planning for Financing, Leasing, Insurance, Maintenance, and ESG.docx",
+      "image": "Sustainable Finance and Fleet Service Solutions for Commercial Vehicles Integrated Planning for Financing, Leasing, Insurance, Maintenance, and ESG.jpg",
+      "wordCount": 48171,
+      "tocCount": 76,
+      "abstractChars": 476,
+      "keywords": "商用車；永續金融；租賃；保險；總體擁有成本；車隊管理；ESG；商品企劃；和泰汽車；HINO"
+    },
+    {
+      "id": "sustainable-mobility-and-multi-energy-pathways-for-commercial-vehicles-tco-scena",
+      "sourceFileName": "Sustainable Mobility and Multi Energy Pathways for Commercial Vehicles_TCO, Scenario Fit, and Product Planning Strategy from Diesel and Hybrid to Electric and Hydrogen Fleets.docx",
+      "image": "Sustainable Mobility and Multi Energy Pathways for Commercial Vehicles_TCO, Scenario Fit, and Product Planning Strategy from Diesel and Hybrid to Electric and Hydrogen Fleets.jpg",
+      "wordCount": 48851,
+      "tocCount": 77,
+      "abstractChars": 633,
+      "keywords": "商用車；永續移動；多能源路徑；總體擁有成本；場景適配；商品企劃；電動卡車；氫能商用車；和泰汽車；HINO"
+    }
+  ],
+  "files": "Original DOCX files are not included.",
+  "windows_fixed_note": "Internal paths and image filenames were shortened for Windows Explorer compatibility."
+}

@@ -1,2 +1,6 @@
-# cv-research-library
-CV Research Library is a trilingual online thesis portfolio for commercial vehicle product planning. It organizes eight research themes across AI intelligence, SME acquisition, dealer education, driver safety, smart logistics, smart factories, sustainable finance, and multi-energy transition.
+# Commercial Vehicle Product Planning Research Library
+
+Static online e-book browsing site generated from eight DOCX theses. Original DOCX files are intentionally not included.
+
+
+Modified: image prompt UI and bottom prompt library removed; prompt text extracted separately.
